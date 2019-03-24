@@ -14,13 +14,16 @@ Enabling mod_rewrite in apache (linux)
 
 Enable mod_rewrite on apache 
 > sudo a2enmod rewrite
+
 Restart apache
 >sudo systemctl restart apache2
 
 Go to
 > cd /etc/apache2/
+
 Edit
 > sudo gedit apache2.conf
+
 Find <Directory /home/wasym/Desktop/www> *yours might be different* & add
 > AllowOverride All
 
