@@ -12,19 +12,24 @@ RewriteRule ^(.*)$ index.php/$1 [L]
 
 Enabling mod_rewrite in apache (linux)
 
-Enable mod_rewrite on apache 
-> sudo a2enmod rewrite
 
-Restart apache
->sudo systemctl restart apache2
+```linux
+# Enable mod_rewrite on apache 
+sudo a2enmod rewrite
 
-Go to
-> cd /etc/apache2/
+# Restart apache
+sudo systemctl restart apache2
 
-Edit
-> sudo gedit apache2.conf
+# Go to
+cd /etc/apache2/
 
-Find <Directory /home/wasym/Desktop/www> *yours might be different* & add
-> AllowOverride All
+# Edit apache config file
+sudo gedit apache2.conf
+```
 
+Find **<Directory /home/wasym/Desktop/www>** *yours might be different*
+Between the **"Directory"** tags add following line
+```apache
+AllowOverride All
+```
 ___
