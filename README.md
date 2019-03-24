@@ -13,18 +13,18 @@ RewriteRule ^(.*)$ index.php/$1 [L]
 Enabling mod_rewrite in apache (linux)
 
 
-```linux
+```Shell
 # Enable mod_rewrite on apache 
-sudo a2enmod rewrite
+$ sudo a2enmod rewrite
 
 # Restart apache
-sudo systemctl restart apache2
+$ sudo systemctl restart apache2
 
 # Go to
-cd /etc/apache2/
+$ cd /etc/apache2/
 
 # Edit apache config file
-sudo gedit apache2.conf
+$ sudo gedit apache2.conf
 ```
 
 Find **<Directory /home/wasym/Desktop/www>** *yours might be different*. Between the **"Directory"** tags add following line
