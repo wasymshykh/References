@@ -27,8 +27,7 @@ cd /etc/apache2/
 sudo gedit apache2.conf
 ```
 
-Find **<Directory /home/wasym/Desktop/www>** *yours might be different*
-Between the **"Directory"** tags add following line
+Find **<Directory /home/wasym/Desktop/www>** *yours might be different*. Between the **"Directory"** tags add following line
 ```apache
 AllowOverride All
 ```
