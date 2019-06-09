@@ -1,5 +1,20 @@
 # References
 
+### Linux
+Opening directory in file explorer via terminal
+
+```Shell
+# Opening current directory
+$ gio open .
+```
+
+```Shell
+# Opening specific directory
+$ gio open /dir/dir
+```
+
+
+
 ### Code Igniter
 
 Setup htaccess file
