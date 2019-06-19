@@ -51,10 +51,10 @@ AllowOverride All
 
 ### Blockchain
 
-_Best article on blockchain [theory + nodejs implementation]_
+**Best article on blockchain [theory + nodejs implementation]**
 https://kauri.io/article/92034a0c23ed4cb4a6ca959e0a4b78b9/v3
 
-_And ofcourse libra is coming_
+**And ofcourse libra is coming**
 https://developers.libra.org/
 
 ---
