@@ -60,3 +60,11 @@ And ofcourse **libra** is coming
 > https://developers.libra.org/
 
 ---
+
+### Cool posts
+
+Learning git concepts not commands **[dev.to article]**
+
+> https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+
+---
