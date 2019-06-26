@@ -67,4 +67,18 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
 
+**Nodejs awesomeness**
+[nodejs cheatsheet]
+
+> https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js
+
+[nodejs security best practices]
+
+> https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
+
+**PHP related**
+[php cheatsheet]
+
+> https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php
+
 ---
