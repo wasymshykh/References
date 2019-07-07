@@ -81,9 +81,14 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php
 
-**ReactJS Related**
-[Different Posts]
+**Development Related**
+[Emerging Tech Dev Posts]
 
 > https://blog.bitsrc.io/
+
+**Software Development**
+[SOLID Explanation]
+
+> https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
 
 ---
