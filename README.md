@@ -67,6 +67,11 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
 
+**Awesome awesomeness**
+[list of difference awesome lists]
+
+> https://github.com/sindresorhus/awesome#media
+
 **Nodejs awesomeness**
 [nodejs cheatsheet]
 
