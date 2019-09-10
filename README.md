@@ -100,6 +100,10 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://github.com/ziadoz/awesome-php
 
+[php security best practices]
+
+> https://thisinterestsme.com/php-best-practises/
+
 
 **Development Related**
 [Emerging Tech Dev Posts]
