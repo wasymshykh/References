@@ -55,6 +55,7 @@ Best article on blockchain **[theory + nodejs implementation]**
 
 > https://kauri.io/article/92034a0c23ed4cb4a6ca959e0a4b78b9/v3
 
+
 And ofcourse **libra** is coming
 
 > https://developers.libra.org/
@@ -67,6 +68,7 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
 
+
 **Awesome awesomeness**
 [list of difference awesome lists]
 
@@ -76,6 +78,7 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://github.com/notlmn/awesome-icons#readme
 
+
 **Nodejs awesomeness**
 [nodejs cheatsheet]
 
@@ -84,6 +87,11 @@ Learning git concepts not commands **[dev.to article]**
 [nodejs security best practices]
 
 > https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
+
+[Bulletproof node.js project architecture]
+
+> https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf?fbclid=IwAR1rmq3LXJACjpl4i8VMmmPABwBQFqjfhgCsyxkrFvyRNstCnuUswHldKh0
+
 
 **PHP related**
 [php cheatsheet]
@@ -97,6 +105,7 @@ Learning git concepts not commands **[dev.to article]**
 [Emerging Tech Dev Posts]
 
 > https://blog.bitsrc.io/
+
 
 **Software Development**
 [SOLID Explanation]
