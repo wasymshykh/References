@@ -90,6 +90,9 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php
 
+> https://github.com/ziadoz/awesome-php
+
+
 **Development Related**
 [Emerging Tech Dev Posts]
 
