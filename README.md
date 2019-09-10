@@ -92,3 +92,11 @@ Learning git concepts not commands **[dev.to article]**
 > https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
 
 ---
+
+### Cool tricks
+
+**.edu** email adress
+
+> https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview
+
+---
