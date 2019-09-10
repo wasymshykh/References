@@ -72,6 +72,10 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://github.com/sindresorhus/awesome#media
 
+[difference icons for use]
+
+> https://github.com/notlmn/awesome-icons#readme
+
 **Nodejs awesomeness**
 [nodejs cheatsheet]
 
