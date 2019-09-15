@@ -55,7 +55,6 @@ Best article on blockchain **[theory + nodejs implementation]**
 
 > https://kauri.io/article/92034a0c23ed4cb4a6ca959e0a4b78b9/v3
 
-
 And ofcourse **libra** is coming
 
 > https://developers.libra.org/
@@ -68,7 +67,6 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
 
-
 **Awesome awesomeness**
 [list of difference awesome lists]
 
@@ -77,7 +75,6 @@ Learning git concepts not commands **[dev.to article]**
 [difference icons for use]
 
 > https://github.com/notlmn/awesome-icons#readme
-
 
 **Nodejs awesomeness**
 [nodejs cheatsheet]
@@ -92,7 +89,6 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf?fbclid=IwAR1rmq3LXJACjpl4i8VMmmPABwBQFqjfhgCsyxkrFvyRNstCnuUswHldKh0
 
-
 **PHP related**
 [php cheatsheet]
 
@@ -104,12 +100,10 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://thisinterestsme.com/php-best-practises/
 
-
 **Development Related**
 [Emerging Tech Dev Posts]
 
 > https://blog.bitsrc.io/
-
 
 **Software Development**
 [SOLID Explanation]
@@ -119,6 +113,10 @@ Learning git concepts not commands **[dev.to article]**
 ---
 
 ### Cool tricks
+
+**js** drag and drop elements
+
+> https://alligator.io/js/drag-and-drop-vanilla-js/
 
 **.edu** email adress
 
