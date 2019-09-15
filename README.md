@@ -89,6 +89,10 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf?fbclid=IwAR1rmq3LXJACjpl4i8VMmmPABwBQFqjfhgCsyxkrFvyRNstCnuUswHldKh0
 
+[nodejs all about streams]
+
+> https://github.com/substack/stream-handbook
+
 **PHP related**
 [php cheatsheet]
 
