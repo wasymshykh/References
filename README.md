@@ -114,6 +114,19 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
 
+[Software Construction]
+
+> https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/readings/
+
+[SC Java]
+
+> https://courses.edx.org/courses/course-v1:MITx+6.005.1x+3T2016/course/
+
+**Cloud**
+[Serverless Handbook]
+
+> https://serverlesshandbook.dev/getting-started
+
 ---
 
 ### Cool tricks
