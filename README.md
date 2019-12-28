@@ -68,6 +68,11 @@ Learning git concepts not commands **[dev.to article]**
 > https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
 
 **Awesome awesomeness**
+
+[600+ MOOCS]
+
+> https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/
+
 [list of difference awesome lists]
 
 > https://github.com/sindresorhus/awesome#media
@@ -77,6 +82,7 @@ Learning git concepts not commands **[dev.to article]**
 > https://github.com/notlmn/awesome-icons#readme
 
 **Nodejs awesomeness**
+
 [nodejs cheatsheet]
 
 > https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js
@@ -94,6 +100,7 @@ Learning git concepts not commands **[dev.to article]**
 > https://github.com/substack/stream-handbook
 
 **PHP related**
+
 [php cheatsheet]
 
 > https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php
@@ -105,11 +112,13 @@ Learning git concepts not commands **[dev.to article]**
 > https://thisinterestsme.com/php-best-practises/
 
 **Development Related**
+
 [Emerging Tech Dev Posts]
 
 > https://blog.bitsrc.io/
 
 **Software Development**
+
 [SOLID Explanation]
 
 > https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
@@ -123,6 +132,7 @@ Learning git concepts not commands **[dev.to article]**
 > https://courses.edx.org/courses/course-v1:MITx+6.005.1x+3T2016/course/
 
 **Cloud**
+
 [Serverless Handbook]
 
 > https://serverlesshandbook.dev/getting-started
