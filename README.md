@@ -81,6 +81,10 @@ Learning git concepts not commands **[dev.to article]**
 
 > https://github.com/notlmn/awesome-icons#readme
 
+[AI Resources]
+
+> https://www.marktechpost.com/free-resources/
+
 **Nodejs awesomeness**
 
 [nodejs cheatsheet]
@@ -116,6 +120,10 @@ Learning git concepts not commands **[dev.to article]**
 [Emerging Tech Dev Posts]
 
 > https://blog.bitsrc.io/
+
+[10 Github repos new developer should know]
+
+> https://morioh.com/p/268e1656b417
 
 **Software Development**
 
