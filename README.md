@@ -61,6 +61,14 @@ And ofcourse **libra** is coming
 
 ---
 
+### AI/ML/DL
+
+**MIT 6.S191** Introduction to Deep Learning _starting from 2020_
+
+> http://introtodeeplearning.com/
+
+---
+
 ### Cool posts
 
 Learning git concepts not commands **[dev.to article]**
