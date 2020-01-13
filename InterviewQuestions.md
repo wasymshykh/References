@@ -61,22 +61,39 @@
 
 ### Binary Trees
 
-How is a binary search tree implemented?
+-   [] How is a binary search tree implemented?
 
-How do you perform preorder traversal in a given binary tree?
+-   [] How do you perform preorder traversal in a given binary tree?
 
-How do you traverse a given binary tree in preorder without recursion?
+-   [] How do you traverse a given binary tree in preorder without recursion?
 
-How do you perform an inorder traversal in a given binary tree?
+-   [] How do you perform an inorder traversal in a given binary tree?
 
-How do you print all nodes of a given binary tree using inorder traversal without recursion?
+-   [] How do you print all nodes of a given binary tree using inorder traversal without recursion?
 
-How do you implement a postorder traversal algorithm?
+-   [] How do you implement a postorder traversal algorithm?
 
-How are all leaves of a binary search tree printed?
+-   [] How are all leaves of a binary search tree printed?
 
-How do you count a number of leaf nodes in a given binary tree?
+-   [] How do you count a number of leaf nodes in a given binary tree?
 
-How do you perform a binary search in a given array?
+-   [] How do you perform a binary search in a given array?
+
+
+### Sorting
+
+-   [] How is a bubble sort algorithm implemented?
+
+-   [] How is an iterative quicksort algorithm implemented?
+
+-   [] How do you implement an insertion sort algorithm?
+
+-   [] How is a merge sort algorithm implemented?
+
+-   [] How do you implement a bucket sort algorithm?
+
+-   [] How do you implement a counting sort algorithm?
+
+-   [] How is a radix sort algorithm implemented?
 
 
