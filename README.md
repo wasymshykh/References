@@ -13,6 +13,10 @@ $ gio open .
 # Opening specific directory
 $ gio open /dir/dir
 ```
+**Virtual Hosts on nginx**
+> https://gist.github.com/soheilhy/8b94347ff8336d971ad0
+
+
 
 ### Code Igniter
 
