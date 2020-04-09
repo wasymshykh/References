@@ -10,13 +10,18 @@ $ gio open .
 ```
 
 ```Shell
+# Disable wayland
+$ nano /etc/gdm3/custom.conf
+```
+
+```Shell
 # Opening specific directory
 $ gio open /dir/dir
 ```
+
 **Virtual Hosts on nginx**
+
 > https://gist.github.com/soheilhy/8b94347ff8336d971ad0
-
-
 
 ### Code Igniter
 
@@ -170,3 +175,13 @@ Learning git concepts not commands **[dev.to article]**
 > https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview
 
 ---
+
+### Softwares
+
+**Raidrive** mounting cloud drives to local system
+
+> https://www.raidrive.com/
+
+**balenaEtcher** simple flash - os image to USB
+
+> https://www.balena.io/etcher/
