@@ -19,6 +19,17 @@ $ nano /etc/gdm3/custom.conf
 $ gio open /dir/dir
 ```
 
+```Shell
+# Fixing external display resolution
+# Remember to disable WayLand first
+$ cvt 1280 1024 60
+# Get and paste text after "Modeline"
+$ xrandr --newmode "1280x1024_60.00"  109.00  1280 1368 1496 1712  1024 1027 1034 1063 -hsync +vsync
+# "xrandr -q" to check display name
+$ xrandr --addmode VGA-0 1280x1024_60.00
+```
+
+
 **Virtual Hosts on nginx**
 
 > https://gist.github.com/soheilhy/8b94347ff8336d971ad0
