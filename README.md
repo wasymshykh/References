@@ -33,6 +33,30 @@ $ xrandr --addmode VGA-0 1280x1024_60.00
 
 ---
 
+### Github Branching flow
+
+```Shell
+# Listing all branches
+$ git branch -a
+
+# Creating a branch
+$ git checkout -b [branch name]
+
+# Adding changes to a branch
+$ git add [branch name]
+```
+
+Switching back to master branch before **merging**
+
+```Shell
+# Merging branch
+$ git merge [branch name] [flag]
+```
+
+use *"**–no-ff**" flag* for keeping all commit messages
+
+---
+
 ### Nginx
 
 Virtual Hosts
