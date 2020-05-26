@@ -1,5 +1,7 @@
 # References
 
+## Snippets
+
 ### Linux
 
 Opening directory in file explorer via terminal
@@ -29,10 +31,15 @@ $ xrandr --newmode "1280x1024_60.00"  109.00  1280 1368 1496 1712  1024 1027 103
 $ xrandr --addmode VGA-0 1280x1024_60.00
 ```
 
+---
 
-**Virtual Hosts on nginx**
+### Nginx
 
-> https://gist.github.com/soheilhy/8b94347ff8336d971ad0
+Virtual Hosts
+
+> <https://gist.github.com/soheilhy/8b94347ff8336d971ad0>
+
+---
 
 ### Code Igniter
 
@@ -69,15 +76,17 @@ AllowOverride All
 
 ---
 
+## Articles & Misc
+
 ### Blockchain
 
 Best article on blockchain **[theory + nodejs implementation]**
 
-> https://kauri.io/article/92034a0c23ed4cb4a6ca959e0a4b78b9/v3
+> <https://kauri.io/article/92034a0c23ed4cb4a6ca959e0a4b78b9/v3>
 
 And ofcourse **libra** is coming
 
-> https://developers.libra.org/
+> <https://developers.libra.org/>
 
 ---
 
@@ -85,7 +94,7 @@ And ofcourse **libra** is coming
 
 **MIT 6.S191** Introduction to Deep Learning _starting from 2020_
 
-> http://introtodeeplearning.com/
+> <http://introtodeeplearning.com/>
 
 ---
 
@@ -93,85 +102,85 @@ And ofcourse **libra** is coming
 
 Learning git concepts not commands **[dev.to article]**
 
-> https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+> <https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc>
 
-**Awesome awesomeness**
+#### Awesome awesomeness
 
 [600+ MOOCS]
 
-> https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/
+> <https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/>
 
 [list of difference awesome lists]
 
-> https://github.com/sindresorhus/awesome#media
+> <https://github.com/sindresorhus/awesome#media>
 
 [difference icons for use]
 
-> https://github.com/notlmn/awesome-icons#readme
+> <https://github.com/notlmn/awesome-icons#readme>
 
 [AI Resources]
 
-> https://www.marktechpost.com/free-resources/
+> <https://www.marktechpost.com/free-resources/>
 
-**Nodejs awesomeness**
+#### Nodejs awesomeness
 
 [nodejs cheatsheet]
 
-> https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js
+> <https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js>
 
 [nodejs security best practices]
 
-> https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
+> <https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d>
 
 [Bulletproof node.js project architecture]
 
-> https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf?fbclid=IwAR1rmq3LXJACjpl4i8VMmmPABwBQFqjfhgCsyxkrFvyRNstCnuUswHldKh0
+> <https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf?fbclid=IwAR1rmq3LXJACjpl4i8VMmmPABwBQFqjfhgCsyxkrFvyRNstCnuUswHldKh0>
 
 [nodejs all about streams]
 
-> https://github.com/substack/stream-handbook
+> <https://github.com/substack/stream-handbook>
 
-**PHP related**
+#### PHP related
 
 [php cheatsheet]
 
-> https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php
+> <https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php>
 
-> https://github.com/ziadoz/awesome-php
+> <https://github.com/ziadoz/awesome-php>
 
 [php security best practices]
 
-> https://thisinterestsme.com/php-best-practises/
+> <https://thisinterestsme.com/php-best-practises/>
 
-**Development Related**
+#### Development Related
 
 [Emerging Tech Dev Posts]
 
-> https://blog.bitsrc.io/
+> <https://blog.bitsrc.io/>
 
 [10 Github repos new developer should know]
 
-> https://morioh.com/p/268e1656b417
+> <https://morioh.com/p/268e1656b417>
 
-**Software Development**
+#### Software Development
 
 [SOLID Explanation]
 
-> https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
+> <https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688>
 
 [Software Construction]
 
-> https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/readings/
+> <https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/readings/>
 
 [SC Java]
 
-> https://courses.edx.org/courses/course-v1:MITx+6.005.1x+3T2016/course/
+> <https://courses.edx.org/courses/course-v1:MITx+6.005.1x+3T2016/course/>
 
-**Cloud**
+#### Cloud
 
 [Serverless Handbook]
 
-> https://serverlesshandbook.dev/getting-started
+> <https://serverlesshandbook.dev/getting-started>
 
 ---
 
@@ -179,11 +188,11 @@ Learning git concepts not commands **[dev.to article]**
 
 **js** drag and drop elements
 
-> https://alligator.io/js/drag-and-drop-vanilla-js/
+> <https://alligator.io/js/drag-and-drop-vanilla-js/>
 
 **.edu** email adress
 
-> https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview
+> <https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview>
 
 ---
 
@@ -191,8 +200,8 @@ Learning git concepts not commands **[dev.to article]**
 
 **Raidrive** mounting cloud drives to local system
 
-> https://www.raidrive.com/
+> <https://www.raidrive.com/>
 
 **balenaEtcher** simple flash - os image to USB
 
-> https://www.balena.io/etcher/
+> <https://www.balena.io/etcher/>
