@@ -55,6 +55,11 @@ $ git merge [branch name] [flag]
 
 use *"**–no-ff**" flag* for keeping all commit messages
 
+```Shell
+# Deleting a branch
+$ git branch -d [branch name]
+```
+
 ---
 
 ### Nginx
@@ -92,7 +97,13 @@ $ cd /etc/apache2/
 $ sudo gedit apache2.conf
 ```
 
-Find **<Directory /home/wasym/Desktop/www>** _yours might be different_. Between the **"Directory"** tags add following line
+Find (_yours might be different_)
+
+```apache
+<Directory /home/wasym/Desktop/www>
+```
+
+Between the **"Directory"** tags add following line
 
 ```apache
 AllowOverride All
