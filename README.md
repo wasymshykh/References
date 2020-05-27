@@ -89,12 +89,24 @@ $ certbot --nginx
 
 ### Dockers Update
 
-```docker
-docker build -t wasym/iamwaseem-nodejs ./backend
-docker container stop nodeapp
-docker container rm nodeapp
-docker run --name nodeapp -p 3000:3000 -d wasym/iamwaseem-nodejs
+Shell script for image update
+
+```Shell
+docker build -t [image name] [folder path]
+docker container stop [container name]
+docker container rm [container name]
+docker run --name [container name] -p [expose container port]:[internal container port] -d [image name]
 ```
+
+_example_:
+
+> docker build -t wasym/iamwaseem-nodejs ./backend
+>
+> docker container stop nodeapp
+>
+> docker container rm nodeapp
+>
+> docker run --name nodeapp -p 6000:6000 -d wasym/iamwaseem-nodejs
 
 ---
 
