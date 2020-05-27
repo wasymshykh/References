@@ -68,6 +68,34 @@ Virtual Hosts
 
 > <https://gist.github.com/soheilhy/8b94347ff8336d971ad0>
 
+Let's encrpt cert
+
+```Shell
+# certbot installation
+$ apt-get update
+$ apt-get install software-properties-common
+$ add-apt-repository universe
+$ add-apt-repository ppa:certbot/certbot
+$ apt-get update
+$ apt-get install certbot python3-certbot-nginx
+
+# ssl with nginx
+$ certbot --nginx
+```
+
+> ref: <https://certbot.eff.org/docs/using.html>
+
+---
+
+### Dockers Update
+
+```docker
+docker build -t wasym/iamwaseem-nodejs ./backend
+docker container stop nodeapp
+docker container rm nodeapp
+docker run --name nodeapp -p 3000:3000 -d wasym/iamwaseem-nodejs
+```
+
 ---
 
 ### Code Igniter
