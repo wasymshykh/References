@@ -87,11 +87,35 @@ $ certbot --nginx
 
 ---
 
-### Dockers Update
+### Docker flow
+
+Dockerfile for nodejs
+_creating "backend" folder where we can put all the code and this Dockerfile_
+
+```Docker
+FROM node:14
+
+RUN mkdir -p /home/[folder name]/backend/node_modules && chown -R node:node /home/[folder name]/backend
+
+WORKDIR /home/[folder name]/backend
+
+COPY package*.json ./
+
+USER node
+
+RUN npm install
+
+COPY --chown=node:node . .
+
+EXPOSE 6000
+
+CMD [ "node", "index.js" ]
+```
 
 Shell script for image update
+_place shell script file outside the "backend" folder and use './backend' as folder path (as shown in example), i'll improve code later_
 
-```Shell
+```console
 docker build -t [image name] [folder path]
 docker container stop [container name]
 docker container rm [container name]
